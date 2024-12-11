@@ -1,0 +1,10 @@
+.idea
+
+/src/GitToText.CLI/bin/
+/src/GitToText.CLI/obj/
+
+/src/GitToText.Core/bin/
+/src/GitToText.Core/obj/
+
+/src/GitToText.Tests/bin/
+/src/GitToText.Tests/obj/
